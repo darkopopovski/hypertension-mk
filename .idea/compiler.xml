@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="hypertension" target="16" />
+      <module name="hypertension" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
